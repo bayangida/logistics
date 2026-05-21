@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "717621145322",
+    "project_id": "bayangida-dac94",
+    "storage_bucket": "bayangida-dac94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717621145322:android:1a53943cc0cb9c47477193",
+        "android_client_info": {
+          "package_name": "com.bayangida.bayangida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ECXUKwlBhNRGj0uZ_IKK9t5QQl-d2lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717621145322:android:218f490f69a68ec1477193",
+        "android_client_info": {
+          "package_name": "com.bayangida.bayangida_farmers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717621145322-bt0etnn5hdqc8rrglbbnjbrh549jhqnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bayangida.bayangida_farmers",
+            "certificate_hash": "0683a355d7541c13a30fdba98b3fce3d1e434692"
+          }
+        },
+        {
+          "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ECXUKwlBhNRGj0uZ_IKK9t5QQl-d2lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717621145322:android:59dcc8d19c99efa9477193",
+        "android_client_info": {
+          "package_name": "com.bayangida.bayangida_logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717621145322-ld6gov7029ebfg515sjih03a29kp9rg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bayangida.bayangida_logistics",
+            "certificate_hash": "6ce89489cd04a9a04679bfbc321caadc6e8b15db"
+          }
+        },
+        {
+          "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ECXUKwlBhNRGj0uZ_IKK9t5QQl-d2lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717621145322-q43d4ihhjhvhj7794us2uvn1c6dk3sjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
